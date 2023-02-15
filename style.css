@@ -1,0 +1,9 @@
+table, th, td{
+  border: 1px solid hotpink;
+}
+#firstTable{
+  border: 1px solid pink;
+}
+#row1Table{
+  background-color: pink;
+}
